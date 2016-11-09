@@ -1,1 +1,1 @@
-web: sink
+web: webhook-sink
